@@ -2,3 +2,9 @@ Bananas
 Oranges
 Strawbwerries
 Apples
+
+Meat
+
+Chicken
+
+Fish
